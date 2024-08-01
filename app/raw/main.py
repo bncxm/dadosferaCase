@@ -57,7 +57,3 @@ def main():
         logger.error("FileNotFoundError: %s", fnf_error)
     except OSError as os_error:
         logger.error("OSError: %s", os_error)
-
-
-if __name__ == '__main__':
-    main()
