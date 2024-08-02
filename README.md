@@ -10,5 +10,10 @@ However, due to lack of access to GCP, the project had to be adapted. The soluti
 ![image](https://github.com/user-attachments/assets/756b7654-730e-4afe-b68e-3448ff89a32e)
 
 
+Descriptive and trend analysis:
+
+![image](https://github.com/user-attachments/assets/b55b91e1-4798-406a-ad54-8f1bc1f1ae3f)
+
+
 The video I uploaded provides detailed explanations about the choice of tools and technologies used.
 #### Video link will be inserted here as soon as the video is available.
