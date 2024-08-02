@@ -11,3 +11,4 @@ However, due to lack of access to GCP, the project had to be adapted. The soluti
 
 
 The video I uploaded provides detailed explanations about the choice of tools and technologies used.
+#### Video link will be inserted here as soon as the video is available.
