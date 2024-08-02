@@ -18,9 +18,9 @@ logging.basicConfig(
 )
 load_dotenv()
 
-URI = os.getenv('URI_CLOUD')
-ACCESS_KEY = os.getenv('ACCESS_CLOUD_KEY')
-SECRET_KEY = os.getenv('SECRET_CLOUD_KEY')
+URI = os.getenv('URI')
+ACCESS_KEY = os.getenv('ACCESS_KEY')
+SECRET_KEY = os.getenv('SECRET_KEY')
 HOST = os.getenv('HOST')
 REGION = 'us-east-1'
 BUCKET = 'stage'
