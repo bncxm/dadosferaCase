@@ -16,4 +16,4 @@ Descriptive and trend analysis:
 
 
 The video I uploaded provides detailed explanations about the choice of tools and technologies used.
-#### Video link will be inserted here as soon as the video is available.
+[The video is available here.](https://youtu.be/CoqsOkl8fag)
