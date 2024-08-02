@@ -19,9 +19,9 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
-URI = os.getenv('URI_CLOUD')
-ACCESS_KEY = os.getenv('ACCESS_CLOUD_KEY')
-SECRET_KEY = os.getenv('SECRET_CLOUD_KEY')
+URI = os.getenv('URI')
+ACCESS_KEY = os.getenv('ACCESS_KEY')
+SECRET_KEY = os.getenv('SECRET_KEY')
 CSV_PATH = os.getenv('CSV_PATH')
 
 
